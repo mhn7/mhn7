@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Machine Learning algorithms
 - 💞️ I’m looking to collaborate on creative Data Science projects
-- I finished my undergrad from Budapest UNiversity of Technology on Mathematics
+- I finished my undergrad from Budapest University of Technology on Mathematics
 - 📫 How to reach me email: ashrafulkader123@gmail.com
 
 <!---
