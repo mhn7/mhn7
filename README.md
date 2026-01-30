@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @mhn7
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Javascript and Python
-- 💞️ I’m looking to collaborate on Web Programming
-- 📫 How to reach me email: mahin@math.bme.hu
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning Machine Learning algorithms
+- 💞️ I’m looking to collaborate on creative Data Science projects
+- I finished my undergrad from Budapest UNiversity of Technology on Mathematics
+- 📫 How to reach me email: ashrafulkader123@gmail.com
 
 <!---
 mhn7/mhn7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
