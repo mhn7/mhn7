@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mhn7
-- 👀 I’m interested in Data Analysis and Data Science
+- 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning Machine Learning algorithms
 - 💞️ I’m looking to collaborate on creative Data Science projects
 - I finished my undergrad from Budapest University of Technology on Mathematics
